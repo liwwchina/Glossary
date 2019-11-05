@@ -66,3 +66,17 @@ Computational reasoning can in many forms, and the term is often used ambiguousl
 A field of research concerned with developing methods and tools for efficient data sharing, discovery, integration, and reuse. The community is strongly aligned with W3C standards such as RDF, OWL and SPARQL for expressing and manipulating knowledge graphs. The Semantic Web field also gave rise to Linked Data which constitutes the currently largest publicly available knowledge graph. 
 
 \[**Used by:** A-6677\]
+
+
+## Geospatial Interoperability
+
+Interoperability measures the ability of different computer systems to communicate and access, exchange, integrate, and (re)use data and other resources autonomously without human intervention. Geospatial Interoperability deals with the interoperability among geospatial systems and software in particular. Standardization is a typical means to achieve interoperability. For instance, International Standardization Organization (ISO) has defined a series of metadata standards (ISO 19115, ISO 19139) to standardize the organization of metadata. Open Geospatial Consortium (OGC) has developed a wide range of web service specifications to define standardized interface for the representation, retrieval and parsing of geospatial data of various types. 
+
+\[**Used by:** A-6677\]
+
+## Semantic Interoperability
+
+Semantic interoperability focuses on the semantic understanding of data and software for better and smarter data integration and synthesis. Common interoperable solutions define the syntax for structuring a dataset or invoking an operation, i.e. what are the input, output and number of parameters. Semantic interoperability moves interoperability up to the next level at which different computer systems do not only agree on the protocol to exchange data, but also have a shared understanding on the meanings of data. Semantic interoperability is achieved by machine reasoning on top of a controlled, shared vocabulary, or an ontology that is used to annotate data and is often encoded in machine-understandable formats, such as RDF or OWL. 
+
+
+\[**Used by:** A-6677\]
